@@ -4,9 +4,9 @@
 
 using GameBaseFramework.FixedPoint;
 
-namespace BattleSystem
+namespace GameBattleFramework.Components
 {
-    public class Transform
+    public class TransformComponent
     {
         public FPVector3 position;
     }
